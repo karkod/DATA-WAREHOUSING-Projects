@@ -22,11 +22,11 @@ Raw Data (CSV) → ETL Pipeline (Python) → Data Warehouse (SQL) → Analytics 
 
 Components:
 
-Fact Table: Fact_Sales (500K+ transactions)
-Dimensions: Customer, Product, Date, Channel
-ETL: Automated daily Python pipeline
-Analytics: 10+ complex SQL queries
-Dashboards: 3 interactive Power BI dashboards
+- Fact Table: Fact_Sales (500K+ transactions)
+- Dimensions: Customer, Product, Date, Channel
+- ETL: Automated daily Python pipeline
+- Analytics: Multiple complex SQL queries
+- Dashboards: 3 interactive Power BI dashboards
 
 # Business Problem It Solves 💼
 
@@ -41,6 +41,7 @@ Data Warehousing
 - Fact and dimension tables
 - OLTP vs OLAP architecture
 - Data quality and validation
+
 Technical Skills
 - SQL database design & optimization
 - Complex SQL queries
