@@ -16,7 +16,8 @@ What it does:
 - Visualizes insights through interactive Power BI dashboards
 
 
-🏗️ # Project Architecture
+# Project Architecture 🏗️
+
 Raw Data (CSV) → ETL Pipeline (Python) → Data Warehouse (SQL) → Analytics → Dashboards (Power BI)
 
 Components:
@@ -27,13 +28,14 @@ ETL: Automated daily Python pipeline
 Analytics: 10+ complex SQL queries
 Dashboards: 3 interactive Power BI dashboards
 
-💼# Business Problem It Solves
+# Business Problem It Solves 💼
 
 Without a warehouse: Answering "Which products are most profitable?" takes 3 hours or more of manual Excel work.
 
 With this warehouse: Click a button → instant answer in 2 minutes. 
 
-🎓 What You'll Learn
+# What You'll Learn🎓
+
 Data Warehousing
 - Star schema dimensional modeling
 - Fact and dimension tables
